@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>nsl</string>
+	<string>lc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLocalizedString(@"&lt;#Message#&gt;", &lt;#Comment#&gt;)</string>
+	<string>#pragma mark - Life Cycle</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6125A767-450A-4DDD-B9BA-CE99C2532B73</string>
+	<string>B6AEA970-9DC9-4472-8423-671ADC8B7ED9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSLocalizedString</string>
+	<string>Life cycle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
